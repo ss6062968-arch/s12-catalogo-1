@@ -1,0 +1,7 @@
+S12 Catálogo editable — archivos HTML/CSS/JS y fotos incluidas.
+Estética personalizada con negro/rojo/blanco y el logo S12 Club proporcionado.
+Referencias: New Balance blanco/gris $125.000 COP tallas 36–39; Nike blanco $100.000 COP tallas 36–44.
+WhatsApp: +57 3132387996.
+Prueba: descomprime y abre index.html.
+Edición: sección “Administrar catálogo”; los cambios se guardan en el navegador local. No se sincronizan ni cambian automáticamente el sitio alojado. Exporta JSON para respaldo.
+Publicación gratis: subir todos los archivos y la carpeta images a un repositorio GitHub y activar Settings > Pages > Deploy from branch > main > /(root).
